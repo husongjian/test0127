@@ -7,5 +7,6 @@ public class TestMain {
         System.out.println("这是develop-xxx分支");
         System.out.println("这是develop-xxx分支");
         System.out.println("这是develop-xxx分支");
+        System.out.println("这是develop-xxx分支");
     }
 }
