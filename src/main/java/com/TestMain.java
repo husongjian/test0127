@@ -24,5 +24,12 @@ public class TestMain {
         System.out.println("第二天我改了代码");
         System.out.println("第二天我改了代码");
         System.out.println("第二天我改了代码");
+        System.out.println("00我提交了，我希望这些代码变蓝");
+        System.out.println("00我提交了，我希望这些代码变蓝");
+        System.out.println("00我提交了，我希望这些代码变蓝");
+        System.out.println("00我提交了，我希望这些代码变蓝");
+        System.out.println("00我提交了，我希望这些代码变蓝");
+        System.out.println("00我提交了，我希望这些代码变蓝");
+        System.out.println("00我提交了，我希望这些代码变蓝");
     }
 }
