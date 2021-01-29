@@ -2,40 +2,13 @@ package com;
 
 public class TestMain {
     public static void main(String[] args) {
-        System.out.println("mastet第二天也改了代码");
-        System.out.println("mastet第二天也改了代码");
-        System.out.println("mastet第二天也改了代码");
-        System.out.println("mastet第二天也改了代码");
-        System.out.println("mastet第二天也改了代码");
-        System.out.println("mastet第二天也改了代码");
-        System.out.println("mastet第二天也改了代码");
-        System.out.println("mastet在工作");
-        System.out.println("mastet在工作");
-        System.out.println("mastet在工作");
-        System.out.println("mastet在工作");
-        System.out.println("mastet在工作");
-        System.out.println("mastet在工作");
-        System.out.println("mastet在工作");
-        System.out.println("第二天我改了代码");
-        System.out.println("第二天我改了代码");
-        System.out.println("第二天我改了代码");
-        System.out.println("第二天我改了代码");
-        System.out.println("第二天我改了代码");
-        System.out.println("第二天我改了代码");
-        System.out.println("第二天我改了代码");
-        System.out.println("第二天我改了代码");
-        System.out.println("00我提交了，我希望这些代码变蓝");
-        System.out.println("00我提交了，我希望这些代码变蓝");
-        System.out.println("00我提交了，我希望这些代码变蓝");
-        System.out.println("00我提交了，我希望这些代码变蓝");
-        System.out.println("00我提交了，我希望这些代码变蓝");
-        System.out.println("00我提交了，我希望这些代码变蓝");
-        System.out.println("00我提交了，我希望这些代码变蓝");
-        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
-        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
-        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
-        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
-        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
-        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
+        System.out.println("test012701在工作");
+        System.out.println("test012701在工作");
+        System.out.println("test012701在工作");
+        System.out.println("test012701在工作");
+        System.out.println("test012701在工作");
+        System.out.println("test012701在工作");
+        System.out.println("test012701在工作");
+        System.out.println("test012701在工作");
     }
 }
