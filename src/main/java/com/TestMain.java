@@ -31,5 +31,11 @@ public class TestMain {
         System.out.println("00我提交了，我希望这些代码变蓝");
         System.out.println("00我提交了，我希望这些代码变蓝");
         System.out.println("00我提交了，我希望这些代码变蓝");
+        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
+        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
+        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
+        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
+        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
+        System.out.println("00我第二次提交了，我还是希望这些代码变蓝");
     }
 }
